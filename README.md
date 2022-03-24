@@ -2,7 +2,7 @@
 
 <br>
 
-![Metrics](https://metrics.lecoq.io/alextsaf?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.ignored=Swift%2C%20Cmake%2C%20html%20%2C%20shell%2C%20bash%2C%20hack%2C%20dockerfile%20%2C%20kotlin%20%2C%20objective-c&languages.skipped=OS-Lab-NTUA&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.details=percentage%20&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Europe%2FAthens)
+![Metrics](https://metrics.lecoq.io/alextsaf?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.ignored=html%2Chack%2C%20shell%2Cbash%2C%20objective-c%2C%20kotlin&languages.skipped=OS-Lab-NTUA&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.details=percentage&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Europe%2FAthens)
 
 <h3 align="left">Languages and Tools used:</h3>
 <p align="left"> 
