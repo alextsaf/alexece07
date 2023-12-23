@@ -1,5 +1,13 @@
-<h3 align="left">ECE student at National Technical University of Athens</h3>
+<h1 align="center">Hi 👋, I'm Alex</h1>
+<h3 align="center">A data-holic from Athens, Greece</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alextsaf&label=Profile%20views&color=0e75b6&style=flat" alt="alextsaf" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alextsaf" alt="alextsaf" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 <br>
 
 ![Metrics](https://metrics.lecoq.io/alextsaf?template=classic&repositories.forks=true&base.header=0&base.activity=0&base.community=0&base.repositories=0&languages=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.ignored=Jupyter%20Notebook%2C%20Assembly%2C%20Shell%2C%20CHack%2C%20bash%2C%20kotlin&languages.skipped=OS-Lab-NTUA&languages.limit=10&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.details=percentage&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Europe%2FAthens)
