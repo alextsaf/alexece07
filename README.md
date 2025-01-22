@@ -9,6 +9,8 @@
 
 ---
 
+
+
 <p> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=alextsaf&theme=gruvbox&row=1&no-frame=true&title=-PullRequest,-Reviews" alt="GitHub Trophies" />
@@ -49,7 +51,7 @@
     <img src="https://starbeamrainbowlabs.com/images/logos/swi-prolog.svg" alt="SWI-Prolog" width="40" height="40"/> 
   </a>
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/> 
+    <img src="https://bashlogo.com/img/symbol/svg/full_colored_light.svg" alt="Bash" width="40" height="40"/> 
   </a>
   </a> 
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
@@ -80,7 +82,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
   </a> 
   <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="MariaDB" width="40" height="40"/> 
+    <img src="https://www.svgrepo.com/show/354037/mariadb-icon.svg" alt="MariaDB" width="40" height="40"/> 
+  <a href="https://firebase.google.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/firebase/firebase-plain.svg" alt="FireBase" width="40" height="40"/> 
   <a href="https://hadoop.apache.org" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="Apache Hadoop" width="40" height="40"/> 
   </a>
@@ -92,7 +96,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> 
   </a> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/> 
+    <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo.svg" alt="Bootstrap" width="40" height="40"/> 
   </a>
   <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/> 
