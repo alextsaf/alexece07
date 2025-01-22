@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">A Data Scientist from Athens, Greece</h3>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alextsaf&label=Profile%20views&color=0e75b6&style=flat" alt="alextsaf" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alextsaf" alt="alextsaf" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alextsaf&theme=gruvbox&row=1&title=-PullRequest,-Reviews" alt="alextsaf" /></a> </p>
 <br>
 
 <h3 align="left">Languages and Tools used:</h3>
